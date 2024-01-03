@@ -1,12 +1,3 @@
-<!-- Title -->
-
-<p align="center">
-  <a href="https://github.com/expo/examples">
-    <img alt="create-react-native-app" src="./.gh-assets/banner.svg">
-    <h1 align="center">Create React Native App</h1>
-  </a>
-</p>
-
 <!-- Header -->
 
 <p align="center">

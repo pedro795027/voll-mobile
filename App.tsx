@@ -5,7 +5,7 @@ import { THEME } from './src/Styles/theme';
 export default function App() {
   return (
     <NativeBaseProvider theme={THEME}>
-      <StatusBar  backgroundColor={THEME.colors.blue[800]}/>
+      <StatusBar  barStyle="dark-content" backgroundColor="transparent" translucent={true}/>
       <Login />
     </NativeBaseProvider>
   );
